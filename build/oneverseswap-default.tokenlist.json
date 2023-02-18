@@ -1,0 +1,33 @@
+{
+  "name": "OneverseSwap Default",
+  "timestamp": "2022-07-16T03:01:15.807Z",
+  "version": {
+    "major": 2,
+    "minor": 3,
+    "patch": 7
+  },
+  "tags": {},
+  "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/grav.png",
+  "keywords": [
+    "OneverseSwap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 5,
+      "address": "",
+      "symbol": "XOV",
+      "name": "OneVerse Governance Token",
+      "decimals": 18,
+      "logoURI": "https://oneverse.one/static/media/logomark.163d6457.svg"
+    },
+    {
+      "chainId": 5,
+      "address": "0xC6baB722a7049B3363C4A7b76cf78B3beb6483c2",
+      "symbol": "Grav",
+      "name": "Grav",
+      "decimals": 18,
+      "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/grav.png"
+    }
+  ]
+}

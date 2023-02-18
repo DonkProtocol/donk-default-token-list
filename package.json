@@ -1,0 +1,38 @@
+{
+  "name": "@foxswap/default-token-list",
+  "version": "2.3.7",
+  "description": "◦ The FoxSwap default token list",
+  "main": "build/foxswap-default.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/foxswap-default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/foxswap-default.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarmersOnlyFi/default-token-list.git"
+  },
+  "keywords": [
+    "foxswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/FarmersOnlyFi/default-token-list/issues"
+  },
+  "homepage": "https://github.com/FarmersOnlyFi/default-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}

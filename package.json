@@ -1,32 +1,29 @@
 {
-  "name": "@foxswap/default-token-list",
+  "name": "@oneverseswap/default-token-list",
   "version": "2.3.7",
-  "description": "◦ The FoxSwap default token list",
-  "main": "build/foxswap-default.tokenlist.json",
+  "description": "◦ The OneverseSwap default token list",
+  "main": "build/oneverseswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
     "build": "rimraf build && mkdir -p build && node src/write.js > build/foxswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/foxswap-default.tokenlist.json"
+    "build/oneverseswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FarmersOnlyFi/default-token-list.git"
+    "url": "git+https://github.com/willcordeiro/oneverseswap-default-token-list"
   },
   "keywords": [
-    "foxswap",
+    "oneverseswap",
     "default",
     "token",
     "list"
   ],
   "author": "",
   "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/FarmersOnlyFi/default-token-list/issues"
-  },
-  "homepage": "https://github.com/FarmersOnlyFi/default-token-list#readme",
+  "homepage": "https://oneverse.one/",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",

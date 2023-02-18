@@ -8,10 +8,7 @@
   },
   "tags": {},
   "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/grav.png",
-  "keywords": [
-    "OneverseSwap",
-    "default"
-  ],
+  "keywords": ["oneverseswap", "default"],
   "tokens": [
     {
       "chainId": 5,

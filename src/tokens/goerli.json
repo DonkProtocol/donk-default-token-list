@@ -1,18 +1,4 @@
-{
-  "name": "OneverseSwap Default",
-  "timestamp": "2023-02-19T00:58:03.347Z",
-  "version": {
-    "major": 2,
-    "minor": 3,
-    "patch": 7
-  },
-  "tags": {},
-  "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/grav.png",
-  "keywords": [
-    "oneverseswap",
-    "default"
-  ],
-  "tokens": [
+[
     {
       "chainId": 5,
       "address": "0xC6baB722a7049B3363C4A7b76cf78B3beb6483c2",
@@ -30,20 +16,20 @@
       "logoURI": "https://oneverse.one/img/grav.png"
     },
     {
-      "name": "Uniswap",
-      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "symbol": "UNI",
-      "decimals": 18,
-      "chainId": 5,
-      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
-    },
-    {
       "name": "Wrapped Ether",
       "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 5,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
     }
-  ]
-}
+]
+

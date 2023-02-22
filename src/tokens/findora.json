@@ -1,0 +1,82 @@
+[
+  {
+    "chainId": 2152,
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "symbol": "ETH",
+    "name": "WETH.b",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024"
+  },
+  {
+    "chainId": 2152,
+    "address": "0xABc979788c7089B516B8F2f1b5cEaBd2E27Fd78b",
+    "symbol": "WBNB",
+    "name": "WBNB.b",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/bnb-bnb-logo.png?v=024"
+  },
+  {
+    "chainId": 2152,
+    "address": "0x93EDFa31D7ac69999E964DAC9c25Cd6402c75DB3",
+    "symbol": "USDT",
+    "name": "USDT.b",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=024"
+  },
+  {
+    "chainId": 2152,
+    "address": "0xdA33eF1A7b48beBbF579eE86DFA735a9529C4950",
+    "symbol": "USDC",
+    "name": "USDC.b",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=024"
+  },
+  {
+    "chainId": 2152,
+    "address": "0xE80EB4a234f718eDc5B76Bb442653827D20Ebb2d",
+    "symbol": "BUSD",
+    "name": "BUSD.b",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.png?v=024"
+  },
+  {
+    "chainId": 2152,
+    "address": "0x07EfA82E00E458ca3D53f2CD5B162e520F46d911",
+    "symbol": "BTCB",
+    "name": "WBTC.b",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png?v=024"
+  },
+  {
+    "chainId": 2152,
+    "address": "0xaFfAac009Af35d6069E79Ef3763A39A2BA5BF65f",
+    "symbol": "WETH",
+    "name": "WETH.e",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024"
+  },
+  {
+    "chainId": 2152,
+    "address": "0x0632baa26299C9972eD4D9AfFa3FD057A72252Ff",
+    "symbol": "USDT",
+    "name": "USDT.e",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=024"
+  },
+  {
+    "chainId": 2152,
+    "address": "0x2e8079E0fE49626AF8716fC38aDEa6799065D7f7",
+    "symbol": "USDC",
+    "name": "USDC.e",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=024"
+  },
+  {
+    "chainId": 2152,
+    "address": "0x38f9dA0D8A84Ad841281080Ad4a2D9D89Eff3bFf",
+    "symbol": "WBTC",
+    "name": "WBTC.e",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png?v=024"
+  }
+]

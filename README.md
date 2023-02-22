@@ -1,5 +1,0 @@
-# oneVerseSwap/default-token-list
-
-
-
-

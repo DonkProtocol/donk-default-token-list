@@ -1,6 +1,6 @@
 const { version } = require("../package.json");
 //const findora = require("./tokens/findorajson");
-const goerli = require("./tokens/goerli.json");
+const goerli = require("./tokens/findora.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -13,7 +13,8 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/grav.png",
+    logoURI:
+      "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/grav.png",
     keywords: ["oneverseswap", "default"],
     tokens: [...goerli]
       // sort them by symbol for easy readability

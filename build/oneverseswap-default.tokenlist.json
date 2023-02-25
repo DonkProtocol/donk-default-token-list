@@ -1,10 +1,10 @@
 {
   "name": "OneverseSwap Default",
-  "timestamp": "2023-02-22T20:04:56.349Z",
+  "timestamp": "2023-02-25T22:47:42.189Z",
   "version": {
     "major": 2,
     "minor": 3,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/grav.png",
@@ -14,68 +14,84 @@
   ],
   "tokens": [
     {
-      "name": "BUSD",
-      "address": "0x2DcEe6564776e06B9Ac99a0d0fA8CFE82bb10B5e",
+      "chainId": 2152,
+      "address": "0x07EfA82E00E458ca3D53f2CD5B162e520F46d911",
+      "symbol": "BTCB",
+      "name": "WBTC.b",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png?v=024"
+    },
+    {
+      "chainId": 2152,
+      "address": "0xE80EB4a234f718eDc5B76Bb442653827D20Ebb2d",
       "symbol": "BUSD",
+      "name": "BUSD.b",
       "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=024"
+      "logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.png?v=024"
     },
     {
-      "name": "DAI",
-      "address": "0xdc31Ee1784292379Fbb2964b3B9C4124D8F89C60",
-      "symbol": "DAI",
+      "chainId": 2152,
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "symbol": "ETH",
+      "name": "WETH.b",
       "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=024"
+      "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024"
     },
     {
-      "chainId": 5,
-      "address": "0xC6baB722a7049B3363C4A7b76cf78B3beb6483c2",
-      "symbol": "Grav",
-      "name": "Grav",
-      "decimals": 18,
-      "logoURI": "https://s3.us-west-2.amazonaws.com/farmersonly.fi/FoxSwapLogos/grav.png"
-    },
-    {
-      "chainId": 5,
-      "address": "0x51Ef2091E6e3212f1E17ee3942C88Ef017DB677C",
-      "symbol": "NEXUS",
-      "name": "Nexus",
-      "decimals": 18,
-      "logoURI": "https://oneverse.one/img/grav.png"
-    },
-    {
-      "name": "Uniswap",
-      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-      "symbol": "UNI",
-      "decimals": 18,
-      "chainId": 5,
-      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
-    },
-    {
-      "name": "USDC",
-      "address": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+      "chainId": 2152,
+      "address": "0xdA33eF1A7b48beBbF579eE86DFA735a9529C4950",
       "symbol": "USDC",
+      "name": "USDC.b",
       "decimals": 18,
-      "chainId": 5,
       "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=024"
     },
     {
-      "name": "USDT",
-      "address": "0x56705DB9F87c8a930Ec87Da0D458E00A657Fccb0",
+      "chainId": 2152,
+      "address": "0x2e8079E0fE49626AF8716fC38aDEa6799065D7f7",
+      "symbol": "USDC",
+      "name": "USDC.e",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=024"
+    },
+    {
+      "chainId": 2152,
+      "address": "0x93EDFa31D7ac69999E964DAC9c25Cd6402c75DB3",
       "symbol": "USDT",
+      "name": "USDT.b",
       "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=024"
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=024"
     },
     {
-      "name": "Wrapped Ether",
-      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
-      "symbol": "WETH",
+      "chainId": 2152,
+      "address": "0x0632baa26299C9972eD4D9AfFa3FD057A72252Ff",
+      "symbol": "USDT",
+      "name": "USDT.e",
       "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=024"
+    },
+    {
+      "chainId": 2152,
+      "address": "0xABc979788c7089B516B8F2f1b5cEaBd2E27Fd78b",
+      "symbol": "WBNB",
+      "name": "WBNB.b",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bnb-bnb-logo.png?v=024"
+    },
+    {
+      "chainId": 2152,
+      "address": "0x38f9dA0D8A84Ad841281080Ad4a2D9D89Eff3bFf",
+      "symbol": "WBTC",
+      "name": "WBTC.e",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png?v=024"
+    },
+    {
+      "chainId": 2152,
+      "address": "0xaFfAac009Af35d6069E79Ef3763A39A2BA5BF65f",
+      "symbol": "WETH",
+      "name": "WETH.e",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024"
     }
   ]
 }

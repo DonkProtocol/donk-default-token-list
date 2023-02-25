@@ -1,7 +1,7 @@
 [
   {
     "chainId": 2152,
-    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
     "symbol": "ETH",
     "name": "WETH.b",
     "decimals": 18,

@@ -8,35 +8,11 @@
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
   },
   {
-    "name": "USDC",
-    "address": "0x07865c6e87b9f70255377e024ace6630c1eaa37f",
-    "symbol": "USDC",
-    "decimals": 18,
-    "chainId": 5,
-    "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=024"
-  },
-  {
-    "name": "USDT",
-    "address": "0x56705db9f87c8a930ec87da0d458e00a657fccb0",
-    "symbol": "USDT",
-    "decimals": 18,
-    "chainId": 5,
-    "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=024"
-  },
-  {
     "name": "BUSD",
     "address": "0x2DcEe6564776e06B9Ac99a0d0fA8CFE82bb10B5e",
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 5,
     "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=024"
-  },
-  {
-    "name": "DAI",
-    "address": "0xdc31ee1784292379fbb2964b3b9c4124d8f89c60",
-    "symbol": "DAI",
-    "decimals": 18,
-    "chainId": 5,
-    "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=024"
   }
 ]

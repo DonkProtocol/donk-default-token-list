@@ -8,8 +8,8 @@
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
   },
   {
-    "name": "BUSD",
-    "address": "0x2DcEe6564776e06B9Ac99a0d0fA8CFE82bb10B5e",
+    "name": "Binance USD",
+    "address": "0xb809b9B2dc5e93CB863176Ea2D565425B03c0540",
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 5,

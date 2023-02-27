@@ -1,6 +1,6 @@
 const { version } = require("../package.json");
 //const findora = require("./tokens/findorajson");
-const goerli = require("./tokens/findora.json");
+const goerli = require("./tokens/goerli.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");

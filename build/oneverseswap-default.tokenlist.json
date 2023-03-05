@@ -1,8 +1,8 @@
 {
   "name": "OneverseSwap Default",
-  "timestamp": "2023-03-05T21:50:14.651Z",
+  "timestamp": "2023-03-05T22:26:49.445Z",
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
     "patch": 0
   },
@@ -13,14 +13,6 @@
     "default"
   ],
   "tokens": [
-    {
-      "chainId": 2153,
-      "address": "0xbbb9d97e925922EDFcBc9B7dE0E8e1092383D096",
-      "symbol": "BTCB",
-      "name": "WBTC.b",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png?v=024"
-    },
     {
       "chainId": 2153,
       "address": "0x3B981f3bB20cb3179ecF77A3974d4F144b2acD61",

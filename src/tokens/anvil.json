@@ -46,13 +46,5 @@
     "name": "BUSD.b",
     "decimals": 18,
     "logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.png?v=024"
-  },
-  {
-    "chainId": 2153,
-    "address": "0xbbb9d97e925922EDFcBc9B7dE0E8e1092383D096",
-    "symbol": "BTCB",
-    "name": "WBTC.b",
-    "decimals": 18,
-    "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png?v=024"
   }
 ]

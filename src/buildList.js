@@ -13,7 +13,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "../assets/grav.png",
+    logoURI: "https://oneverse.one/static/media/logomark.163d6457.svg",
     keywords: ["oneverseswap", "default"],
     tokens: [...goerli]
       // sort them by symbol for easy readability

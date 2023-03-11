@@ -1,6 +1,14 @@
 [
   {
     "chainId": 2152,
+    "address": "0x1583Ced75025E78bd88AC26ECE85B6Eb00df0718",
+    "symbol": "OV",
+    "name": "OV",
+    "decimals": 18,
+    "logoURI": "https://oneverse.one/img/xgrav.png"
+  },
+  {
+    "chainId": 2152,
     "address": "0x0000000000000000000000000000000000001000",
     "symbol": "FRA",
     "name": "FINDORA",

@@ -97,19 +97,11 @@
   },
   {
     "chainId": 2152,
-    "address": "0x07EfA82E00E458ca3D53f2CD5B162e520F46d911  ",
-    "symbol": "BTC.B",
-    "name": "BTC",
-    "decimals": 18,
-    "logoURI": "https://fairyswap.finance/images/tokens/0xaf196C2d7870B5146F02D49b011dF9197C093Ffe.png"
-  },
-  {
-    "chainId": 2152,
     "address": "0x07EfA82E00E458ca3D53f2CD5B162e520F46d911",
     "symbol": "BTC.B",
     "name": "BTC",
     "decimals": 18,
-    "logoURI": "https://fairyswap.finance/images/tokens/0x07EfA82E00E458ca3D53f2CD5B162e520F46d911.png"
+    "logoURI": "https://fairyswap.finance/images/tokens/0xaf196C2d7870B5146F02D49b011dF9197C093Ffe.png"
   },
   {
     "chainId": 2152,

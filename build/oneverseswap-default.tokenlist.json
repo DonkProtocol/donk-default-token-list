@@ -1,8 +1,8 @@
 {
   "name": "OneverseSwap Default",
-  "timestamp": "2023-03-11T23:53:26.674Z",
+  "timestamp": "2023-03-12T00:22:40.099Z",
   "version": {
-    "major": 9,
+    "major": 10,
     "minor": 0,
     "patch": 0
   },
@@ -15,19 +15,27 @@
   "tokens": [
     {
       "chainId": 2152,
-      "address": "0xE80EB4a234f718eDc5B76Bb442653827D20Ebb2d",
-      "symbol": "BUSD",
-      "name": "BUSD.b",
+      "address": "0x07EfA82E00E458ca3D53f2CD5B162e520F46d911  ",
+      "symbol": "BTC.B",
+      "name": "BTC",
       "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.png?v=024"
+      "logoURI": "https://fairyswap.finance/images/tokens/0xaf196C2d7870B5146F02D49b011dF9197C093Ffe.png"
     },
     {
       "chainId": 2152,
-      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-      "symbol": "ETH",
-      "name": "WETH.b",
+      "address": "0x07EfA82E00E458ca3D53f2CD5B162e520F46d911",
+      "symbol": "BTC.B",
+      "name": "BTC",
       "decimals": 18,
-      "logoURI": "https://venice.finance/images/tokens/0x008A628826E9470337e0Cd9c0C944143A83F32f3.png"
+      "logoURI": "https://fairyswap.finance/images/tokens/0x07EfA82E00E458ca3D53f2CD5B162e520F46d911.png"
+    },
+    {
+      "chainId": 2152,
+      "address": "0xE80EB4a234f718eDc5B76Bb442653827D20Ebb2d",
+      "symbol": "BUSD.b",
+      "name": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.png?v=024"
     },
     {
       "chainId": 2152,
@@ -64,48 +72,64 @@
     {
       "chainId": 2152,
       "address": "0xdA33eF1A7b48beBbF579eE86DFA735a9529C4950",
-      "symbol": "USDC",
-      "name": "USDC.b",
+      "symbol": "USDC.b",
+      "name": "USDC",
       "decimals": 18,
       "logoURI": "https://venice.finance/images/tokens/0xdA33eF1A7b48beBbF579eE86DFA735a9529C4950.png"
     },
     {
       "chainId": 2152,
       "address": "0x2e8079E0fE49626AF8716fC38aDEa6799065D7f7",
-      "symbol": "USDC",
-      "name": "USDC.e",
+      "symbol": "USDC.e",
+      "name": "USDC",
       "decimals": 18,
       "logoURI": "https://venice.finance/images/tokens/0x2e8079E0fE49626AF8716fC38aDEa6799065D7f7.png"
     },
     {
       "chainId": 2152,
       "address": "0x93EDFa31D7ac69999E964DAC9c25Cd6402c75DB3",
-      "symbol": "USDT",
-      "name": "USDT.b",
+      "symbol": "USDT.b",
+      "name": "USDT",
       "decimals": 18,
       "logoURI": "https://venice.finance/images/tokens/0x93EDFa31D7ac69999E964DAC9c25Cd6402c75DB3.png"
     },
     {
       "chainId": 2152,
       "address": "0x0632baa26299C9972eD4D9AfFa3FD057A72252Ff",
-      "symbol": "USDT",
-      "name": "USDT.e",
+      "symbol": "USDT.e",
+      "name": "USDT",
       "decimals": 18,
       "logoURI": "https://venice.finance/images/tokens/0x0632baa26299C9972eD4D9AfFa3FD057A72252Ff.png"
     },
     {
       "chainId": 2152,
       "address": "0xABc979788c7089B516B8F2f1b5cEaBd2E27Fd78b",
-      "symbol": "WBNB",
-      "name": "WBNB.b",
+      "symbol": "WBNB.b",
+      "name": "WBNB",
       "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/bnb-bnb-logo.png?v=024"
+      "logoURI": "https://fairyswap.finance/images/tokens/0xABc979788c7089B516B8F2f1b5cEaBd2E27Fd78.png"
+    },
+    {
+      "chainId": 2152,
+      "address": "0x38f9dA0D8A84Ad841281080Ad4a2D9D89Eff3bFf",
+      "symbol": "WBTC.e",
+      "name": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://fairyswap.finance/images/tokens/0x07EfA82E00E458ca3D53f2CD5B162e520F46d911.png"
     },
     {
       "chainId": 2152,
       "address": "0xaFfAac009Af35d6069E79Ef3763A39A2BA5BF65f",
-      "symbol": "WETH",
-      "name": "WETH.e",
+      "symbol": "WETH.b",
+      "name": "ETH",
+      "decimals": 18,
+      "logoURI": "https://venice.finance/images/tokens/0x008A628826E9470337e0Cd9c0C944143A83F32f3.png"
+    },
+    {
+      "chainId": 2152,
+      "address": "0xaFfAac009Af35d6069E79Ef3763A39A2BA5BF65f",
+      "symbol": "WETH.e",
+      "name": "WETH",
       "decimals": 18,
       "logoURI": "https://venice.finance/images/tokens/0xaFfAac009Af35d6069E79Ef3763A39A2BA5BF65f.png"
     }

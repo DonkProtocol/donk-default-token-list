@@ -8,10 +8,7 @@
   },
   "tags": {},
   "logoURI": "https://oneverse.one/static/media/logomark.163d6457.svg",
-  "keywords": [
-    "oneverseswap",
-    "default"
-  ],
+  "keywords": ["oneverseswap", "default"],
   "tokens": [
     {
       "chainId": 2152,
@@ -127,7 +124,7 @@
     },
     {
       "chainId": 2152,
-      "address": "0xaFfAac009Af35d6069E79Ef3763A39A2BA5BF65f",
+      "address": "0x38f9dA0D8A84Ad841281080Ad4a2D9D89Eff3bFf",
       "symbol": "WETH.e",
       "name": "WETH",
       "decimals": 18,

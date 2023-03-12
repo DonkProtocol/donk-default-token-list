@@ -1,6 +1,6 @@
 {
   "name": "OneverseSwap Default",
-  "timestamp": "2023-03-12T00:44:06.737Z",
+  "timestamp": "2023-03-12T01:40:56.469Z",
   "version": {
     "major": 13,
     "minor": 0,
@@ -99,7 +99,7 @@
       "symbol": "WBNB.b",
       "name": "WBNB",
       "decimals": 18,
-      "logoURI": "https://fairyswap.finance/images/tokens/0xABc979788c7089B516B8F2f1b5cEaBd2E27Fd78.png"
+      "logoURI": "https://fairyswap.finance/images/tokens/0xABc979788c7089B516B8F2f1b5cEaBd2E27Fd78b.png"
     },
     {
       "chainId": 2152,

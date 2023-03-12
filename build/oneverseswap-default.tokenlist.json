@@ -1,6 +1,6 @@
 {
   "name": "OneverseSwap Default",
-  "timestamp": "2023-03-12T01:42:28.203Z",
+  "timestamp": "2023-03-12T04:10:18.475Z",
   "version": {
     "major": 14,
     "minor": 0,
@@ -59,7 +59,7 @@
       "symbol": "OV",
       "name": "OV",
       "decimals": 18,
-      "logoURI": "https://oneverse.one/img/xgrav.png"
+      "logoURI": "https://tinypic.host/images/2023/03/12/grav.png"
     },
     {
       "chainId": 2152,

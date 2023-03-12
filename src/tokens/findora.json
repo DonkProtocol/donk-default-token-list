@@ -17,11 +17,11 @@
   },
   {
     "chainId": 2152,
-    "address": "0xaFfAac009Af35d6069E79Ef3763A39A2BA5BF65f",
+    "address": "0x008A628826E9470337e0Cd9c0C944143A83F32f3",
     "symbol": "WETH.b",
     "name": "ETH",
     "decimals": 18,
-    "logoURI": "https://venice.finance/images/tokens/0x008A628826E9470337e0Cd9c0C944143A83F32f3.png"
+    "logoURI": "https://fairyswap.finance/images/tokens/0x008A628826E9470337e0Cd9c0C944143A83F32f3.png"
   },
   {
     "chainId": 2152,

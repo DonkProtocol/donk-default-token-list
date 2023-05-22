@@ -1,11 +1,10 @@
 const { version } = require("../package.json");
-const findora = require("./tokens/findora.json");
-//const goerli = require("./tokens/anvil.json");
+const goerli = require("./tokens/goerli.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "OneverseSwap Default",
+    name: "DonkSwap Default",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -14,8 +13,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI: "https://oneverse.one/static/media/logomark.163d6457.svg",
-    keywords: ["oneverseswap", "default"],
-    tokens: [...findora]
+    keywords: ["donkswap", "default"],
+    tokens: [...goerli]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {

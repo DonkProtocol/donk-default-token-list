@@ -1,22 +1,22 @@
 {
-  "name": "@oneverseswap/default-token-list",
-  "version": "14.0.1",
-  "description": "◦ The OneverseSwap default token list",
-  "main": "build/oneverseswap-default.tokenlist.json",
+  "name": "@donkswap/default-token-list",
+  "version": "1.0.1",
+  "description": "◦ The donkswap default token list",
+  "main": "build/donkswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/oneverseswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/donkswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/oneverseswap-default.tokenlist.json"
+    "build/donkswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/willcordeiro/oneverseswap-default-token-list.git"
+    "url": "git+https://github.com/willcordeiro/donkswap-default-token-list.git"
   },
   "keywords": [
-    "oneverseswap",
+    "donkswap",
     "default",
     "token",
     "list"
@@ -33,7 +33,7 @@
     "rimraf": "^3.0.2"
   },
   "bugs": {
-    "url": "https://github.com/willcordeiro/oneverseswap-default-token-list/issues"
+    "url": "https://github.com/willcordeiro/donkswap-default-token-list/issues"
   },
   "directories": {
     "test": "test"

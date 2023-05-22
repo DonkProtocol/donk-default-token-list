@@ -1,0 +1,33 @@
+{
+  "name": "DonkSwap Default",
+  "timestamp": "2023-05-22T09:58:47.580Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://github.com/DonkSolana/donk-default-token-list/blob/main/assets/donk.png?raw=true",
+  "keywords": [
+    "donkswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Binance USD",
+      "address": "0xb809b9B2dc5e93CB863176Ea2D565425B03c0540",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=024"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    }
+  ]
+}

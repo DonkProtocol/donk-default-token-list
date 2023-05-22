@@ -12,7 +12,8 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://oneverse.one/static/media/logomark.163d6457.svg",
+    logoURI:
+      "https://github.com/DonkSolana/donk-default-token-list/blob/main/assets/donk.png?raw=true",
     keywords: ["donkswap", "default"],
     tokens: [...goerli]
       // sort them by symbol for easy readability

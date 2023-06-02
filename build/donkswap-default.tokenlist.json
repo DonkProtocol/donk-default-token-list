@@ -1,10 +1,10 @@
 {
   "name": "DonkSwap Default",
-  "timestamp": "2023-06-02T18:31:37.736Z",
+  "timestamp": "2023-06-02T18:32:45.109Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
-    "patch": 2
+    "patch": 0
   },
   "tags": {},
   "logoURI": "https://github.com/DonkSolana/donk-default-token-list/blob/main/assets/donk.png?raw=true",

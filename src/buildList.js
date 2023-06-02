@@ -1,5 +1,5 @@
 const { version } = require("../package.json");
-const goerli = require("./tokens/goerli.json");
+const goerli = require("./tokens/sepolia.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");

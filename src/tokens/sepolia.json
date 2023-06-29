@@ -5,7 +5,7 @@
     "symbol": "DNK",
     "name": "DONK",
     "decimals": 18,
-    "logoURI": "https://github.com/DonkProtocol/donk-interface/blob/main/src/assets/images/logo/logo_-_white_bg.png?raw=true"
+    "logoURI": "https://github.com/DonkProtocol/donk-default-token-list/blob/main/assets/donk.png?raw=true"
   },
   {
     "chainId": 42161,

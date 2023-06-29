@@ -1,8 +1,8 @@
 {
   "name": "DonkSwap Default",
-  "timestamp": "2023-06-29T20:18:35.097Z",
+  "timestamp": "2023-06-29T20:26:37.065Z",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   },
@@ -35,7 +35,7 @@
       "symbol": "DNK",
       "name": "DONK",
       "decimals": 18,
-      "logoURI": "https://github.com/DonkProtocol/donk-default-token-list/blob/main/assets/donk.png?raw=true"
+      "logoURI": "https://www.linkpicture.com/q/logo_-_white_bg.png"
     },
     {
       "chainId": 42161,

@@ -1,13 +1,13 @@
 {
   "name": "DonkSwap Default",
-  "timestamp": "2023-06-29T20:27:06.167Z",
+  "timestamp": "2023-06-29T20:30:39.422Z",
   "version": {
     "major": 5,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://github.com/DonkSolana/donk-default-token-list/blob/main/assets/donk.png?raw=true",
+  "logoURI": "https://www.linkpicture.com/q/logo_-_white_bg.png",
   "keywords": [
     "donkswap",
     "default"

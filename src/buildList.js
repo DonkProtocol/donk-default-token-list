@@ -12,8 +12,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI:
-      "https://github.com/DonkSolana/donk-default-token-list/blob/main/assets/donk.png?raw=true",
+    logoURI: "https://www.linkpicture.com/q/logo_-_white_bg.png",
     keywords: ["donkswap", "default"],
     tokens: [...goerli]
       // sort them by symbol for easy readability

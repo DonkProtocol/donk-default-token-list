@@ -1,0 +1,78 @@
+{
+  "name": "DonkSwap Default",
+  "timestamp": "2023-06-29T20:31:10.566Z",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://www.linkpicture.com/q/logo_-_white_bg.png",
+  "keywords": ["donkswap", "default"],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+      "symbol": "BUSD",
+      "name": "Binance-usd",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/binanceusd_32.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
+      "symbol": "BNB",
+      "name": "BNB",
+      "decimals": 18,
+      "logoURI": "https://polygonscan.com/token/images/bnb_28_2.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/MCDDai_32.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+      "symbol": "TUSD",
+      "name": "TrueUSD",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/trueusd_32.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/tether_32.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/wbtc_28.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/weth_28.png"
+    }
+  ]
+}
